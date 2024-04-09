@@ -57,7 +57,7 @@ npm publish
 
 1. Kita buat ulang seperti diatas, pas langkah ke 11, kita install nama package kita
 ```bash
-npm nama-paket-yang-sudah-di-buat
+npm i nama-paket-yang-sudah-di-buat
 ```
 2. Lanjutkan hingga publish
 
